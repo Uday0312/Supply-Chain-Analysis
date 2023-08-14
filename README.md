@@ -15,3 +15,6 @@ Methods Used:
 
 **Description**:
 This project provides an extensive analysis of a company's supply chain data. From visualizing the relationship between product prices and revenue to studying defect rates across products, the analysis encompasses various supply chain aspects. It offers insights into sales distribution, revenue patterns across shipping carriers, stock levels by SKU, order quantities, and cost distribution by transportation mode. The findings are visualized comprehensively, aiding in making informed business decisions
+
+**Outcome**
+Pattern and Trends Analysis , optimizing stock levels, understanding product popularity, managing defect rates, and identifying cost-saving opportunities, ultimately leading to enhanced operational efficiency and increased profitability.
